@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Elif!
+
+I am a fast learner with passion. I hold a Computer Engineering major at Boğaziçi University. I am currently working as a Mendix Advanced Developer.
+
+ Reach me at: [LinkedIn](https://www.linkedin.com/in/elifakalin/)
 
 <!--
 **elxif/elxif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
